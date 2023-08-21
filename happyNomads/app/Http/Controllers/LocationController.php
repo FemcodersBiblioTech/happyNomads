@@ -2,10 +2,12 @@
 
 namespace App\Http\Controllers;
 
+//use Illuminate\Http\Response; 
 use Illuminate\Http\RedirectResponse;
 use App\Models\Location;
 use Illuminate\Http\Request;
-use Illuminate\Http\View;
+//use Illuminate\Http\View;
+use Illuminate\View\View;
 
 class LocationController extends Controller
 {
