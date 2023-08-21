@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/Logo.svg" alt= "Logo Happy Travel " width=250px> 
+  <img src="./happyNomads/assets/Logo.svg" alt= "Logo Happy Travel " width=250px> 
 </h1> 
 
 #  🧳 Happy Travel ✈️ 🌍 
