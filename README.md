@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="../happyNomads/happyNomads/resources/assets/Logo.svg" alt= "Logo Happy Travel " width=250px> 
+  <img src="../assets/Logo.svg" alt= "Logo Happy Travel " width=250px> 
 </h1> 
 
 #  🧳 Happy Travel ✈️ 🌍 
@@ -21,7 +21,9 @@ En esta App desarrollamos un CRUD con Laravel conectado a una base de datos MySQ
  
 **Server:** 
 <div> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php logo" width="60"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" alt="Php My admin logo" width="60" height="40"/> </div> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" alt="Php My admin logo" width="60" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel logo" width="60" height="40"/>
+  </div> 
 
 ## Tools 🛠️
   <div>
